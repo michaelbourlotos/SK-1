@@ -6,25 +6,25 @@ More pics taken with points of interest marked. No time for proper tutorials, ju
 
 Some favorite electri/fire points. Marked in black: Tablebeast patchbay points . 
 
-![](../images/sk-1%20board%20Table%20Beast.JPG)
+![](../images/sk-1_board_Table_Beast.JPG)
 
 control signal for the 4066 quad switch IC.
 
-![](../images/sk1%20P03.JPG)
+![](../images/sk1_P03.JPG)
 
-![](../images/4066%20switch-medium.jpg)
+![](../images/4066_switch-medium.jpg)
 
 The NAND gate chip with the ROM and RAM Chip Select lines. 
 
-The lower marine line is for selecting the ROM. During that time the RAMs are deselected. ![](../images/sk1%20pin%2030%20a15%20to%2026%20CS%20%20pin31%20to%2027%20WE.JPG)
+The lower marine line is for selecting the ROM. During that time the RAMs are deselected. ![](../images/sk1_pin_30_a15_to_26_CS__pin31_to_27_WE.JPG)
 
 The auto power off tutorial to be....
 
-![](../images/sk1%20APO%20power%20off%20Auoto.JPG)
+![](../images/sk1_APO_power_off_Auoto.JPG)
 
 More messy stuff...
 
-![](../images/APO%2086%2088%20%2097%20SF%20pin%2095-medium.jpg)
+![](../images/APO_86_88__97_SF_pin_95-medium.jpg)
 
-![](../images/pin%2091%20pin%2092.JPG)
+![](../images/pin_91_pin_92.JPG)
 ß

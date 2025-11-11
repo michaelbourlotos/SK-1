@@ -4,7 +4,7 @@
 
 The soft reset are the lower two wires. Connect to a normaly open momentary switch. 
 
-![](../images/sk-1%20RESET-medium.jpg)
+![](../images/sk-1_RESET-medium.jpg)
 
 The two upper wires are the pitchbend. Notice the coil has been removed hoping to achieve a deeper pitchbend down.
 

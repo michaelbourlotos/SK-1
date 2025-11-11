@@ -8,7 +8,7 @@ Point B is from the envelop schematic on page 8 of the [Concertmate 500/ SK1 ser
 
 At point B is the sound BEFORE it has been through the envelope circuit. 
 
-![](../images/sk1%20sound%20envelopes.JPG)
+![](../images/sk1_sound_envelopes.JPG)
 
 Electri-fire comments:
 

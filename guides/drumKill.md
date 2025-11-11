@@ -19,7 +19,7 @@ White is CPU pin 95 Melody or Chord
 
 Blue is CPU pin 96 Bass or Melody 
 
-![](../images/sk1%20sound%20lines.JPG)
+![](../images/sk1_sound_lines.JPG)
 
 The next picture shows the other side of the board. I´ll have to make new one, as the drum mod has not yet been done on this board . 
 
